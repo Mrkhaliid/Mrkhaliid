@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Mrkhaliid
-- 👀 I’m interested in cooding
-- 🌱 I’m currently learning js and c
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Khalid Oubni.
 
-<!---
-Mrkhaliid/Mrkhaliid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Passionate about programming, I'm currently learning Laravel to develop high-quality web applications.
+
+🌱 I'm constantly learning and improving my development skills, exploring new tools and technologies to solve complex problems.
+
+💞️ I'm open to collaboration on interesting projects in the field of web development.
+
+📫 You can reach me at +212693975080 to discuss any project or collaboration opportunities.
